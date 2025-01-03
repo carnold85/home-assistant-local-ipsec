@@ -1,0 +1,9 @@
+{
+    "domain": "local_ipsec",
+    "name": "Local IPsec",
+    "version": "0.5",
+    "documentation": "https://www.f00bar.org/",
+    "dependencies": [],
+    "codeowners": ["@carnold85"],
+    "requirements": ["vici==5.9.11.post1"]
+}
